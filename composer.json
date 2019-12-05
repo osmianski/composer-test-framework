@@ -1,5 +1,6 @@
 {
     "name": "osmianski/composer-test-framework",
+    "license": "GPL-3.0-only",
     "autoload": {
         "psr-4": {
             "Test\\Framework\\": "src/"
