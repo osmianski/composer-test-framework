@@ -1,0 +1,8 @@
+{
+    "name": "osmianski/composer-test-framework",
+    "autoload": {
+        "psr-4": {
+            "Test\\Framework\\": "src/"
+        }
+    }
+}
